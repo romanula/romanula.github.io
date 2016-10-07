@@ -1,0 +1,45 @@
+html {
+  font-size: 14px; /* px значит 'пиксели': базовый шрифт будет 10 пикселей в высоту  */
+  font-family: 'Ruslan Display', cursive;
+  background-color: Orange ;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color:grey ;
+  padding: 0 20px 20px 50px;
+  border: 7px solid green;
+}
+#sss {color:white}
+ol {
+  color: DarkSeaGreen;
+}
+h4 {
+  color: silver;
+  width: 200px;
+  border: 3px solid green;
+  }
+h4:hover {
+  color: black;
+  width: 300px;
+  border: 1px solid red;
+  }
+h1, h2, h3, h4 {
+  margin: 0 auto;
+  font-size: 20px;
+  text-align: center;
+}
+p, li {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px;
+}
+h1 {
+  padding: 20px 0;
+  color: #00539F;
+  text-shadow: 10px 10px 8px yellow;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
